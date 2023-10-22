@@ -1,5 +1,5 @@
 # ZCash_
-"Overview and Origin"
+##"Overview and Origin"
 
 
 What is the name of the company?
@@ -18,7 +18,7 @@ How is the company funded? How much funding have they received?
 ZCash did not receive traditional ICO funding. Instead, they employ a novel method of funding and distribution, with miners receiving 80% freshly minted ZEC, founders receiving 15%, and a development fund receiving 5%.
 
 
-"Business Activities"
+###"Business Activities"
 
 What specific financial problem is the company or project trying to solve?
 Compared to other cryptocurrencies, ZCash aims to give users greater privacy and anonymity.
@@ -32,7 +32,7 @@ ZCash implements zk-SNARKs ("zero-knowledge proofs"), which allow transaction da
 Which technologies are they currently using, and how are they implementing them?
 The key innovation is zk-SNARKs. They integrated it in their blockchain to support anonymous transactions.
 
-"Landscape"
+####"Landscape"
 What domain of the financial industry is the company in?
 Cryptocurrency and Blockchain.
 
