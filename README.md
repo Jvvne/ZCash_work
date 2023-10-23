@@ -1,5 +1,5 @@
 # ZCash_
-##"Overview and Origin"
+#"Overview and Origin"
 
 
 What is the name of the company?
@@ -18,29 +18,29 @@ How is the company funded? How much funding have they received?
 ZCash did not receive traditional ICO funding. Instead, they employ a novel method of funding and distribution, with miners receiving 80% freshly minted ZEC, founders receiving 15%, and a development fund receiving 5%.
 
 
-###"Business Activities"
+##"Business Activities"
 
 What specific financial problem is the company or project trying to solve?
 Compared to other cryptocurrencies, ZCash aims to give users greater privacy and anonymity.
 
 Who is the company's intended customer?
-anyone seeking a substitute for the transparent transactions in other cryptocurrencies, particularly privacy-conscious people, businesses that require discreet transactions, and others who value their privacy.
+anyone seeking a substitute for transparent transactions in other cryptocurrencies, particularly privacy-conscious people, businesses that require discreet transactions, and others who value their privacy.
 
-What solution does this company offer that their competitors do not or cannot offer?
+What solution does this company offer that its competitors do not or cannot offer?
 ZCash implements zk-SNARKs ("zero-knowledge proofs"), which allow transaction data to be confirmed without disclosing information about the sum and persons involved.
 
 Which technologies are they currently using, and how are they implementing them?
-The key innovation is zk-SNARKs. They integrated it in their blockchain to support anonymous transactions.
+The key innovation is zk-SNARKs. They integrated it into their blockchain to support anonymous transactions.
 
 ####"Landscape"
 What domain of the financial industry is the company in?
 Cryptocurrency and Blockchain.
 
-What have been the major trends and innovations of this domain over the last 5–10 years?
-Emergence of decentralized finance (DeFi), smart contracts, network functions technology (NFT), layer-2 scaling solutions, and a focus on fungibility and privacy in digital currencies.
+What have been the major trends and innovations in this domain over the last 5–10 years?
+The emergence of decentralized finance (DeFi), smart contracts, network functions technology (NFT), layer-2 scaling solutions, and a focus on fungibility and privacy in digital currencies.
 
 What are the other major companies in this domain?
-Bitcoin, Ethereum, Xrp,Polygon, and many others.
+Bitcoin, Ethereum, Xrp, Polygon, and many others.
 
 "Results"
 
