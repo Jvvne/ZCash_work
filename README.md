@@ -1,4 +1,4 @@
-# ZCash_
+# ZCash
 
 <h2>Overview and Origin</h2>
 
